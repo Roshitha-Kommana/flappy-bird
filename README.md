@@ -69,7 +69,3 @@ README.md          # Project documentation
 This project is for **educational and personal learning purposes only**. Credits go to the original author of the code and video tutorial.
 
 ---
-
-Made with 💻 by [Roshitha Kommana](https://github.com/Roshitha-Kommana)
-```
-
