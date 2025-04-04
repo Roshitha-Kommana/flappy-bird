@@ -1,6 +1,3 @@
-Here's a `README.md` file tailored for your [Flappy Bird project](https://github.com/Roshitha-Kommana/flappy-bird), acknowledging the original source and tutorial inspiration:
-
----
 
 ```markdown
 # Flappy Bird - Java Game
@@ -23,7 +20,9 @@ GitHub Repository: [https://github.com/Roshitha-Kommana/flappy-bird](https://git
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot](screenshot.png)
+![img alt](https://github.com/Roshitha-Kommana/flappy-bird/blob/main/screenshot.png?raw=true)
+
+
 
 ## ▶️ How to Play
 
