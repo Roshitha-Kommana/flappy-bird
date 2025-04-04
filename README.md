@@ -1,5 +1,4 @@
 
-```markdown
 # Flappy Bird - Java Game
 
 This is a simple **Flappy Bird** game clone built using **Java** and **Java Swing**. The game mimics the core mechanics of the original Flappy Bird—click or press the spacebar to flap and avoid hitting the pipes.
@@ -20,8 +19,7 @@ GitHub Repository: [https://github.com/Roshitha-Kommana/flappy-bird](https://git
 
 ## 📸 Screenshots
 
-![img alt](https://github.com/Roshitha-Kommana/flappy-bird/blob/main/screenshot.png?raw=true)
-
+![Image Alt](https://github.com/Roshitha-Kommana/flappy-bird/blob/8e1328775f29011ef5a1004c580a750b4210764c/screenshot.png)
 
 
 ## ▶️ How to Play
